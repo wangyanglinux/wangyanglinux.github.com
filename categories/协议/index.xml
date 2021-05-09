@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>协议 on 汪洋的个人小站</title>
-    <link>http://coderzh.github.io/categories/%E5%8D%8F%E8%AE%AE/</link>
+    <link>http://wangyanglinux.github.io/categories/%E5%8D%8F%E8%AE%AE/</link>
     <description>Recent content in 协议 on 汪洋的个人小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 May 2021 19:28:03 +0800</lastBuildDate><atom:link href="http://coderzh.github.io/categories/%E5%8D%8F%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 19:28:03 +0800</lastBuildDate><atom:link href="http://wangyanglinux.github.io/categories/%E5%8D%8F%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTTP 请求方式</title>
-      <link>http://coderzh.github.io/post/2HTTP-%E8%AF%B7%E6%B1%82%E6%96%B9%E5%BC%8F/</link>
+      <link>http://wangyanglinux.github.io/post/2HTTP-%E8%AF%B7%E6%B1%82%E6%96%B9%E5%BC%8F/</link>
       <pubDate>Sun, 09 May 2021 19:28:03 +0800</pubDate>
       
-      <guid>http://coderzh.github.io/post/2HTTP-%E8%AF%B7%E6%B1%82%E6%96%B9%E5%BC%8F/</guid>
+      <guid>http://wangyanglinux.github.io/post/2HTTP-%E8%AF%B7%E6%B1%82%E6%96%B9%E5%BC%8F/</guid>
       <description>以下是HTTP 请求方法大全| HTTP Request Method ，可以按Ctrl+F快速查找需要的信息 GET GET方法请求一个指定资源的表示形式. 使用GET的请求应该只被用于获取数据. HEAD HEAD方法请求一个与GET请求的响应相同的响应，但没有响应体. POST POST方法用于将实体提交到指定的资源，通常导致在服务器上的状</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on 汪洋的个人小站</title>
-    <link>http://coderzh.github.io/tags/Hugo/</link>
+    <link>http://wangyanglinux.github.io/tags/Hugo/</link>
     <description>Recent content in Hugo on 汪洋的个人小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 May 2021 18:28:03 +0800</lastBuildDate><atom:link href="http://coderzh.github.io/tags/Hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 18:28:03 +0800</lastBuildDate><atom:link href="http://wangyanglinux.github.io/tags/Hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo 博客框架介绍</title>
-      <link>http://coderzh.github.io/post/1hugo-%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D/</link>
+      <link>http://wangyanglinux.github.io/post/1hugo-%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D/</link>
       <pubDate>Sun, 09 May 2021 18:28:03 +0800</pubDate>
       
-      <guid>http://coderzh.github.io/post/1hugo-%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D/</guid>
+      <guid>http://wangyanglinux.github.io/post/1hugo-%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D/</guid>
       <description>1、Hugo 简介 搭建个人博客有很多开源的博客框架，我们要介绍的框架叫作Hugo。Hugo 是一个基于Go 语言的框架，可以快速方便的创建自己的博客。 Hugo 支持Markdown 语法，我们可以将自己的文章写成Markdown 的格式，放在我们用Hugo 创建的博客系统中，从而展示给他人。 2、Hu</description>
     </item>
     
